@@ -1,0 +1,6 @@
+com\example\util\RestEndpoint.class
+com\example\data\DataRecorder.class
+com\example\data\RequestDetails.class
+com\example\agents\ObjectCreationTransformer.class
+com\example\agents\RequestFilterTransformer.class
+com\example\agents\WebAgent.class
